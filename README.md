@@ -3,9 +3,9 @@
 
 ## 🔧 Features
 
-- ⏱ 60-second countdown timer
-- 🖥 Console-based interface
-- 🧠 Uses only beginner-friendly C constructs (no libraries like `<time.h>`)
-- 🌀 Simulated delay using a busy-wait loop
+- ⏱ 60-second countdown timer.
+- 🖥 Console-based interface.
+- 🧠 Uses only beginner-friendly C constructs (no libraries like `<time.h>`).
+- 🌀 Simulated delay using a busy-wait loop.
 
 ## Author- Silven Mohan

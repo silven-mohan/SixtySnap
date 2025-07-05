@@ -13,9 +13,7 @@ int main()
 	for (i=n;i>=0;i--)
 	{
 		printf("0:%d",i);
-		
 		for(j=0;j<3315000000;j++);
-		
 		/* system("cls"); */
 	}
 

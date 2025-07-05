@@ -2,11 +2,11 @@
 
 #include<stdlib.h>
 
-main()
+int main()
 {
 	int i, n;
 	long j;
-	system("cls");
+	/* system("cls"); */
 	printf("Enter the Preset Time:");
 	scanf("%d", &n);
 	for (i=n;i>=0;i--)
@@ -15,7 +15,8 @@ main()
 		
 		for(j=0;j<3315000000;j++);
 		
-		system("cls");
+		/* system("cls"); */
 	}
-	
+
+	return 0;
 }
